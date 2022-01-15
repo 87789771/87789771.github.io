@@ -10,5 +10,5 @@
 - 单点登录、踢人
 - 众多功能
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/87789771/meimei-nestjs-admin)
 [Get Started](kslj/xmjj)

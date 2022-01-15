@@ -9,7 +9,7 @@ redis >= 3.0
 
 ## 运行系统
 #### 后端运行
-- 前往 github下载页面 ([https://github.com](https://github.com)) 进行代码拉取。
+- 前往 github下载页面 ([https://github.com](http://42.192.136.154:3000/#/login?redirect=%2Findex)) 进行代码拉取。
 - 创建数据库mei-mei,执行初始化数据库文件(根目录下的 mei-mei.sql)
 - 修改数据库连接，编辑 src/config/config.development.ts
 ```
@@ -48,7 +48,7 @@ npm run start:dev
 
 
 #### 前端运行
-前往 github下载页面 ([https://github.com](https://github.com)) 进行代码拉取。
+前往 github下载页面 ([https://github.com](http://42.192.136.154:3000/#/login?redirect=%2Findex)) 进行代码拉取。
 ```
 # 进入项目目录
 cd meimei-ui

@@ -3,8 +3,8 @@
 
 
 ## 在线体验
-  - [演示地址]()
-  - [码源地址]()
+  - [演示地址](http://42.192.136.154:3000/#/login?redirect=%2Findex)
+  - [码源地址](https://github.com/87789771/meimei-nestjs-admin)
 
 
 ## 技术要求
