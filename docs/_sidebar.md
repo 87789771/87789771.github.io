@@ -14,6 +14,7 @@
    * [数据权限](hdsc/sjqx.md)
    * [定时任务](hdsc/dsrw.md)
    * [系统接口](hdsc/xtjk.md)
+   * [防止连续提交](hdsc/lxtj.md)
    * [重中之重](hdsc/zzzz.md)
 
 * 前端手册
